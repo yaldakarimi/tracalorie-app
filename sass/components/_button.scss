@@ -1,0 +1,12 @@
+@mixin btn() {
+	text-decoration: none;
+	cursor: pointer;
+	display: inline-block;
+	outline: none;
+	padding: $base-padding * 2 $base-padding;
+	border-radius: $base-border-radius * 2;
+}
+
+.btn {
+	@include btn();
+}

@@ -1,0 +1,32 @@
+// Color variables
+$fire: #ef3e36;
+$cyan: #17bebb;
+$salmon: #a63a50;
+$cream: #f0e7d8;
+$yellow: #ffe347;
+$lila: #9c89b8;
+$green: #81c14b;
+$blue: #2374ab;
+$black: #000;
+$white: #fff;
+$primary: #2374ab;
+
+// Color palette
+
+$colors: (
+	"fire": $fire,
+	"cyan": $cyan,
+	"salmon": $salmon,
+	"cream": $cream,
+	"yellow": $yellow,
+	"lila": $lila,
+	"green": $green,
+	"blue": $blue,
+	"black": $black,
+	"white": $white,
+);
+
+$base-padding: 0.25em;
+$base-margin: 0.25em;
+$base-border-radius: 0.25rem;
+$base-font-size: 1rem;
